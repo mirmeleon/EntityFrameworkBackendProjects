@@ -1,0 +1,5 @@
+c:\users\dell\documents\visual studio 2015\Projects\ProductsShop\ProductsShop.Models\bin\Debug\ProductsShop.Models.dll
+c:\users\dell\documents\visual studio 2015\Projects\ProductsShop\ProductsShop.Models\bin\Debug\ProductsShop.Models.pdb
+c:\users\dell\documents\visual studio 2015\Projects\ProductsShop\ProductsShop.Models\obj\Debug\ProductsShop.Models.csprojResolveAssemblyReference.cache
+c:\users\dell\documents\visual studio 2015\Projects\ProductsShop\ProductsShop.Models\obj\Debug\ProductsShop.Models.dll
+c:\users\dell\documents\visual studio 2015\Projects\ProductsShop\ProductsShop.Models\obj\Debug\ProductsShop.Models.pdb

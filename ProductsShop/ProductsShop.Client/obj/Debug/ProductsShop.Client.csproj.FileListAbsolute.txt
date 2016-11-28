@@ -1,0 +1,16 @@
+c:\users\dell\documents\visual studio 2015\Projects\ProductsShop\ProductsShop.Client\bin\Debug\ProductsShop.Client.exe.config
+c:\users\dell\documents\visual studio 2015\Projects\ProductsShop\ProductsShop.Client\bin\Debug\ProductsShop.Client.exe
+c:\users\dell\documents\visual studio 2015\Projects\ProductsShop\ProductsShop.Client\bin\Debug\ProductsShop.Client.pdb
+c:\users\dell\documents\visual studio 2015\Projects\ProductsShop\ProductsShop.Client\bin\Debug\EntityFramework.dll
+c:\users\dell\documents\visual studio 2015\Projects\ProductsShop\ProductsShop.Client\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\dell\documents\visual studio 2015\Projects\ProductsShop\ProductsShop.Client\bin\Debug\Newtonsoft.Json.dll
+c:\users\dell\documents\visual studio 2015\Projects\ProductsShop\ProductsShop.Client\bin\Debug\ProductsShop.Data.dll
+c:\users\dell\documents\visual studio 2015\Projects\ProductsShop\ProductsShop.Client\bin\Debug\ProductsShop.Models.dll
+c:\users\dell\documents\visual studio 2015\Projects\ProductsShop\ProductsShop.Client\bin\Debug\ProductsShop.Data.pdb
+c:\users\dell\documents\visual studio 2015\Projects\ProductsShop\ProductsShop.Client\bin\Debug\ProductsShop.Models.pdb
+c:\users\dell\documents\visual studio 2015\Projects\ProductsShop\ProductsShop.Client\bin\Debug\EntityFramework.xml
+c:\users\dell\documents\visual studio 2015\Projects\ProductsShop\ProductsShop.Client\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\dell\documents\visual studio 2015\Projects\ProductsShop\ProductsShop.Client\bin\Debug\Newtonsoft.Json.xml
+c:\users\dell\documents\visual studio 2015\Projects\ProductsShop\ProductsShop.Client\obj\Debug\ProductsShop.Client.csprojResolveAssemblyReference.cache
+c:\users\dell\documents\visual studio 2015\Projects\ProductsShop\ProductsShop.Client\obj\Debug\ProductsShop.Client.exe
+c:\users\dell\documents\visual studio 2015\Projects\ProductsShop\ProductsShop.Client\obj\Debug\ProductsShop.Client.pdb
