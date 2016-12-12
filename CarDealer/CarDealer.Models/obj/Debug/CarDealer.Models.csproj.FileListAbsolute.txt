@@ -1,0 +1,5 @@
+c:\users\dell\documents\visual studio 2015\Projects\CarDealer\CarDealer.Models\bin\Debug\CarDealer.Models.dll
+c:\users\dell\documents\visual studio 2015\Projects\CarDealer\CarDealer.Models\bin\Debug\CarDealer.Models.pdb
+c:\users\dell\documents\visual studio 2015\Projects\CarDealer\CarDealer.Models\obj\Debug\CarDealer.Models.csprojResolveAssemblyReference.cache
+c:\users\dell\documents\visual studio 2015\Projects\CarDealer\CarDealer.Models\obj\Debug\CarDealer.Models.dll
+c:\users\dell\documents\visual studio 2015\Projects\CarDealer\CarDealer.Models\obj\Debug\CarDealer.Models.pdb

@@ -1,0 +1,14 @@
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\BillsPaymentSystem\BillPaymentSystem.ConsoleClient\bin\Debug\BillPaymentSystem.ConsoleClient.exe.config
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\BillsPaymentSystem\BillPaymentSystem.ConsoleClient\bin\Debug\BillPaymentSystem.ConsoleClient.exe
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\BillsPaymentSystem\BillPaymentSystem.ConsoleClient\bin\Debug\BillPaymentSystem.ConsoleClient.pdb
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\BillsPaymentSystem\BillPaymentSystem.ConsoleClient\bin\Debug\BillsPaymentSystem.Data.dll
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\BillsPaymentSystem\BillPaymentSystem.ConsoleClient\bin\Debug\BillsPaymentSystem.Models.dll
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\BillsPaymentSystem\BillPaymentSystem.ConsoleClient\bin\Debug\EntityFramework.dll
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\BillsPaymentSystem\BillPaymentSystem.ConsoleClient\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\BillsPaymentSystem\BillPaymentSystem.ConsoleClient\bin\Debug\BillsPaymentSystem.Data.pdb
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\BillsPaymentSystem\BillPaymentSystem.ConsoleClient\bin\Debug\BillsPaymentSystem.Models.pdb
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\BillsPaymentSystem\BillPaymentSystem.ConsoleClient\bin\Debug\EntityFramework.xml
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\BillsPaymentSystem\BillPaymentSystem.ConsoleClient\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\BillsPaymentSystem\BillPaymentSystem.ConsoleClient\obj\Debug\BillPaymentSystem.ConsoleClient.csprojResolveAssemblyReference.cache
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\BillsPaymentSystem\BillPaymentSystem.ConsoleClient\obj\Debug\BillPaymentSystem.ConsoleClient.exe
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\BillsPaymentSystem\BillPaymentSystem.ConsoleClient\obj\Debug\BillPaymentSystem.ConsoleClient.pdb

@@ -1,0 +1,14 @@
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\BillsPaymentSystem\BillsPaymentSystem.Data\bin\Debug\BillsPaymentSystem.Data.dll.config
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\BillsPaymentSystem\BillsPaymentSystem.Data\bin\Debug\BillsPaymentSystem.Data.dll
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\BillsPaymentSystem\BillsPaymentSystem.Data\bin\Debug\BillsPaymentSystem.Data.pdb
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\BillsPaymentSystem\BillsPaymentSystem.Data\bin\Debug\BillsPaymentSystem.Models.dll
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\BillsPaymentSystem\BillsPaymentSystem.Data\bin\Debug\EntityFramework.dll
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\BillsPaymentSystem\BillsPaymentSystem.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\BillsPaymentSystem\BillsPaymentSystem.Data\bin\Debug\BillsPaymentSystem.Models.pdb
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\BillsPaymentSystem\BillsPaymentSystem.Data\bin\Debug\EntityFramework.xml
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\BillsPaymentSystem\BillsPaymentSystem.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\BillsPaymentSystem\BillsPaymentSystem.Data\obj\Debug\BillsPaymentSystem.Data.csprojResolveAssemblyReference.cache
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\BillsPaymentSystem\BillsPaymentSystem.Data\obj\Debug\BillsPaymentSystem.Data.dll
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\BillsPaymentSystem\BillsPaymentSystem.Data\obj\Debug\BillsPaymentSystem.Data.pdb
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\BillsPaymentSystem\BillsPaymentSystem.Data\obj\Debug\BillsPaymentSystem.Data.Migrations.changedCollections.resources
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\BillsPaymentSystem\BillsPaymentSystem.Data\obj\Debug\BillsPaymentSystem.Data.csproj.GenerateResource.Cache

@@ -1,0 +1,16 @@
+c:\users\dell\documents\visual studio 2015\Projects\CarDealer\CarDealer.Client\bin\Debug\CarDealer.Client.exe.config
+c:\users\dell\documents\visual studio 2015\Projects\CarDealer\CarDealer.Client\bin\Debug\CarDealer.Client.exe
+c:\users\dell\documents\visual studio 2015\Projects\CarDealer\CarDealer.Client\bin\Debug\CarDealer.Client.pdb
+c:\users\dell\documents\visual studio 2015\Projects\CarDealer\CarDealer.Client\bin\Debug\CarDealer.Data.dll
+c:\users\dell\documents\visual studio 2015\Projects\CarDealer\CarDealer.Client\bin\Debug\CarDealer.Models.dll
+c:\users\dell\documents\visual studio 2015\Projects\CarDealer\CarDealer.Client\bin\Debug\EntityFramework.dll
+c:\users\dell\documents\visual studio 2015\Projects\CarDealer\CarDealer.Client\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\dell\documents\visual studio 2015\Projects\CarDealer\CarDealer.Client\bin\Debug\Newtonsoft.Json.dll
+c:\users\dell\documents\visual studio 2015\Projects\CarDealer\CarDealer.Client\bin\Debug\CarDealer.Data.pdb
+c:\users\dell\documents\visual studio 2015\Projects\CarDealer\CarDealer.Client\bin\Debug\CarDealer.Models.pdb
+c:\users\dell\documents\visual studio 2015\Projects\CarDealer\CarDealer.Client\bin\Debug\EntityFramework.xml
+c:\users\dell\documents\visual studio 2015\Projects\CarDealer\CarDealer.Client\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\dell\documents\visual studio 2015\Projects\CarDealer\CarDealer.Client\bin\Debug\Newtonsoft.Json.xml
+c:\users\dell\documents\visual studio 2015\Projects\CarDealer\CarDealer.Client\obj\Debug\CarDealer.Client.csprojResolveAssemblyReference.cache
+c:\users\dell\documents\visual studio 2015\Projects\CarDealer\CarDealer.Client\obj\Debug\CarDealer.Client.exe
+c:\users\dell\documents\visual studio 2015\Projects\CarDealer\CarDealer.Client\obj\Debug\CarDealer.Client.pdb

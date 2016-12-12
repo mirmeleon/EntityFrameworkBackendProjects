@@ -1,0 +1,10 @@
+c:\users\dell\documents\visual studio 2015\Projects\BusTicketSystem.Client\BusTicketsystem.Model\bin\Debug\BusTicketsystem.Model.dll
+c:\users\dell\documents\visual studio 2015\Projects\BusTicketSystem.Client\BusTicketsystem.Model\bin\Debug\BusTicketsystem.Model.pdb
+c:\users\dell\documents\visual studio 2015\Projects\BusTicketSystem.Client\BusTicketsystem.Model\obj\Debug\BusTicketsystem.Model.csprojResolveAssemblyReference.cache
+c:\users\dell\documents\visual studio 2015\Projects\BusTicketSystem.Client\BusTicketsystem.Model\obj\Debug\BusTicketsystem.Model.dll
+c:\users\dell\documents\visual studio 2015\Projects\BusTicketSystem.Client\BusTicketsystem.Model\obj\Debug\BusTicketsystem.Model.pdb
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\BusTicketSystem\BusTicketsystem.Model\bin\Debug\BusTicketsystem.Model.dll
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\BusTicketSystem\BusTicketsystem.Model\bin\Debug\BusTicketsystem.Model.pdb
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\BusTicketSystem\BusTicketsystem.Model\obj\Debug\BusTicketsystem.Model.csprojResolveAssemblyReference.cache
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\BusTicketSystem\BusTicketsystem.Model\obj\Debug\BusTicketsystem.Model.dll
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\BusTicketSystem\BusTicketsystem.Model\obj\Debug\BusTicketsystem.Model.pdb

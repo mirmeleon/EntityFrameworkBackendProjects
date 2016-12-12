@@ -1,0 +1,5 @@
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\BillsPaymentSystem\BillsPaymentSystem.Models\bin\Debug\BillsPaymentSystem.Models.dll
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\BillsPaymentSystem\BillsPaymentSystem.Models\bin\Debug\BillsPaymentSystem.Models.pdb
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\BillsPaymentSystem\BillsPaymentSystem.Models\obj\Debug\BillsPaymentSystem.Models.csprojResolveAssemblyReference.cache
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\BillsPaymentSystem\BillsPaymentSystem.Models\obj\Debug\BillsPaymentSystem.Models.dll
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\BillsPaymentSystem\BillsPaymentSystem.Models\obj\Debug\BillsPaymentSystem.Models.pdb
